@@ -17,7 +17,9 @@ I'm a final-year Management Science & Information Systems Studies student at Tri
   <img src="https://skillicons.dev/icons?i=python,r,java,git,github" />
 </p>
 
-**Data & Tools:** Excel · Bloomberg Terminal · PowerPoint
+**Statistics & Data Analysis:** Statistical Inference · Forecasting · Multivariate Analysis · Data Analysis
+
+**Tools:** Excel · Git · GitHub
 
 ## Selected Projects
 
