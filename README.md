@@ -21,6 +21,25 @@ Final-year **Management Science & Information Systems Studies** student at Trini
 
 ---
 
+## Education
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="./assets/tcd-logo.png" width="75">
+    </td>
+    <td>
+      <strong>Trinity College Dublin</strong><br>
+      B.A. (Mod.) Management Science & Information Systems Studies (MSISS)<br>
+      School of Computer Science & Statistics<br>
+      <strong>Current Grade: First-Class Honours (1.1)</strong><br>
+      September 2023 – May 2027
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Technical Skills
 
 ### Programming
