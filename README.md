@@ -12,7 +12,6 @@ I'm a final-year Management Science & Information Systems Studies student at Tri
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wimooney) or at **wimooney@tcd.ie**
 
 ## Technical Skills
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,java,git,github" />
 </p>
