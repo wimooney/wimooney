@@ -26,7 +26,7 @@ Final-year **Management Science & Information Systems Studies** student at Trini
 <table>
   <tr>
     <td width="100" align="center">
-      <img src="./assets/tcd-logo.png" width="75">
+      <img src="./tcd-logo.png" width="75">
     </td>
     <td>
       <strong>Trinity College Dublin</strong><br>
