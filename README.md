@@ -9,7 +9,7 @@ I'm a final-year Management Science & Information Systems Studies student at Tri
 - 🔭 I’m currently working on projects involving data analysis, statistics and programming
 - 🌱 I’m currently learning more about machine learning and data analytics
 - 💬 Ask me about Python, R, Java or MSISS at Trinity College Dublin
-- 📫 Reach me on [LinkedIn](YOUR-LINKEDIN-URL) or at **wimooney@tcd.ie**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wimooney) or at **wimooney@tcd.ie**
 
 ## Technical Skills
 
