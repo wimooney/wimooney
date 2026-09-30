@@ -4,7 +4,7 @@
 
 ## Hi, I'm William 👋
 
-Final-year **Management Science & Information Systems Studies** student at Trinity College Dublin, with experience across programming, statistics, management science and finance.
+**Management Science & Information Systems Studies** student at Trinity College Dublin, with experience across programming, statistics, management science and finance.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wimooney">
