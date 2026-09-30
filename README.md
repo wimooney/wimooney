@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=William%20Mooney&fontAlign=50&fontAlignY=35&desc=MSISS%20%7C%20Trinity%20College%20Dublin&descAlignY=60&color=gradient" />
+</p>
 
-<!--
-**wimooney/wimooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm William 👋
 
-Here are some ideas to get you started:
+I'm a final-year Management Science & Information Systems Studies student at Trinity College Dublin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects involving data analysis, statistics and programming
+- 🌱 I’m currently learning more about machine learning and data analytics
+- 💬 Ask me about Python, R, Java or MSISS at Trinity College Dublin
+- 📫 Reach me on [LinkedIn](YOUR-LINKEDIN-URL) or at **wimooney@tcd.ie**
+
+## Technical Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,java,git,github" />
+</p>
+
+**Data & Tools:** Excel · Bloomberg Terminal · PowerPoint
+
+## Selected Projects
+
+### ✈️ Flight Data Analytics
+Analysis of flight data using statistical and data-analysis techniques.
+
+### 📊 Statistical Analysis
+Projects applying statistical modelling and analysis in R and Python.
+
+### 💻 Management Science Projects
+Programming and analytical projects completed as part of MSISS at Trinity College Dublin.
